@@ -6,7 +6,6 @@
 
 **Management in the Cloud**
 management of cloud environment and resources
-
 - Through a web portal
 - Using CLI
 - Using APIs
