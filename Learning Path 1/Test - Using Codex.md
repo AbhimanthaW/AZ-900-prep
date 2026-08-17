@@ -340,4 +340,4 @@ D. Serverless expenditure
 - Serverless computing
 
 This demonstrates competence in Microsoft’s current **Describe cloud concepts** domain, worth 25–30% of AZ-900. [Official AZ-900 study guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900)
-
+ 
