@@ -16,12 +16,12 @@ My complete Microsoft Azure Fundamentals (AZ-900) study notes, labs, diagrams, f
   - [x] Module 1: Describe cloud computing
   - [x] Module 2: Describe the benefits of using cloud services
   - [x] Module 3: Describe cloud service types
-- [ ] LEARNING PATH: Introduction to Cloud Infrastructure: Describe Azure architecture and services
+- [x] LEARNING PATH: Introduction to Cloud Infrastructure: Describe Azure architecture and services
   - [x] Module 1: Describe the core architectural components of Azure
-  - [ ] Module 2: Describe Azure compute services
-  - [ ] Module 3: Describe Azure networking services
-  - [ ] Module 4: Describe Azure storage services
-  - [ ] Module 5: Describe Azure identity, access, and security
+  - [x] Module 2: Describe Azure compute services
+  - [x] Module 3: Describe Azure networking services
+  - [x] Module 4: Describe Azure storage services
+  - [x] Module 5: Describe Azure identity, access, and security
 - [ ] LEARNING PATH: Introduction to Cloud Infrastructure: Describe Azure management and governance
   - [ ] Module 1: Describe cost management in Azure
   - [ ] Module 2: Describe features and tools in Azure for governance and compliance
