@@ -22,11 +22,11 @@ My complete Microsoft Azure Fundamentals (AZ-900) study notes, labs, diagrams, f
   - [x] Module 3: Describe Azure networking services
   - [x] Module 4: Describe Azure storage services
   - [x] Module 5: Describe Azure identity, access, and security
-- [ ] LEARNING PATH: Introduction to Cloud Infrastructure: Describe Azure management and governance
-  - [ ] Module 1: Describe cost management in Azure
-  - [ ] Module 2: Describe features and tools in Azure for governance and compliance
-  - [ ] Module 3: Describe features and tools for managing and deploying Azure resources
-  - [ ] Module 4: Describe monitoring tools in Azure
+- [x] LEARNING PATH: Introduction to Cloud Infrastructure: Describe Azure management and governance
+  - [x] Module 1: Describe cost management in Azure
+  - [x] Module 2: Describe features and tools in Azure for governance and compliance
+  - [x] Module 3: Describe features and tools for managing and deploying Azure resources
+  - [x] Module 4: Describe monitoring tools in Azure
 
 ---
 
